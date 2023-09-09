@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://nooooorth.github.io/sitemap.xml

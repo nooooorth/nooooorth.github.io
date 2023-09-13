@@ -50,7 +50,7 @@ cover:
 ## 2. [Github Page](https://pages.github.com/)创建
 - 在Github上创建一个`username.github.io`的 **public** 仓库
 - 在当前仓库下创建一个代码空间(Free!!!)
-![点击+号创建](image-1.png)
+![点击+号创建](/img/image-1.png)
 
 
 ## 

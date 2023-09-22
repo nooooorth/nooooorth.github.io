@@ -59,8 +59,22 @@ cover:
 ### 2.2 博客构建
 该教程使用了Hugo构建博客
 - 🚀 构建更快,build for future
-- 🀄 简单易用，符合需求
+- 🀄  简单易用，符合需求
 
+构建过程
 - 打开terminal，安装hugo
 ![打开terminal](/img/20230915165932-convert.gif)
+```bash
+# 切换到root用户
+sudo su 
+
+# 安装hugo
+apt-get update
+apt-get install hugo
+
+# 验证
+hugo version
+# 安装成功 hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio 
+```
+
 <!-- more --> 

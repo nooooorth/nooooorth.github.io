@@ -76,5 +76,9 @@ apt-get install hugo
 hugo version
 # 安装成功 hugo v0.118.2-da7983ac4b94d97d776d7c2405040de97e95c03d linux/amd64 BuildDate=2023-08-31T11:23:51Z VendorInfo=gohugoio 
 ```
+- 选择一个合适的[主题](https://themes.gohugo.io/)
+
+
+
 
 <!-- more --> 
